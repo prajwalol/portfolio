@@ -18,13 +18,13 @@ const About = () => {
         />
       </h2>
       <p>
-        Computer Science student at Westcliff University and an aspiring
-        developer with a passion for web development and AI. Currently diving
-        into Data Structures and Algorithms (DSAs) to strengthen my
-        problem-solving skills. I believe in learning through real-world
-        projects and am eager to explore, create, and grow. I’m excited to
-        explore new concepts and improve my coding abilities. Feel free to reach
-        out if you’d like to connect, collaborate, or share ideas!
+        Computer Science student at King's College and an aspiring developer
+        with a passion for web development and AI. Currently diving into Data
+        Structures and Algorithms (DSAs) to strengthen my problem-solving
+        skills. I believe in learning through real-world projects and am eager
+        to explore, create, and grow. I’m excited to explore new concepts and
+        improve my coding abilities. Feel free to reach out if you’d like to
+        connect, collaborate, or share ideas!
       </p>
     </section>
   );
