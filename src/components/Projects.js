@@ -8,7 +8,7 @@ function Projects() {
       <div className="projects-container">
         {/* First Project Card */}
         <div className="project-card">
-          <img src="/images/upamanyu-academy.jpg" alt="Project 1" />
+          <img src="/images/heart.jpg" alt="Project 1" />
           <h3>Animating Heart</h3>
           <p>
             A website which animates heart infront of your very eyes written in
