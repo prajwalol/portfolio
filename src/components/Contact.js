@@ -37,6 +37,24 @@ const Contact = () => {
             <i className="fab fa-linkedin"></i> LinkedIn
           </a>
         </li>
+        <li>
+          <a
+            href="https://www.instagram.com/prajwalshrestha___/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <i className="fab fa-instagram"></i> Instagram
+          </a>
+        </li>
+        <li>
+          <a
+            href="https://www.facebook.com/profile.php?id=100082355192786/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <i className="fab fa-facebook"></i> Facebook
+          </a>
+        </li>
       </ul>
     </div>
   );
