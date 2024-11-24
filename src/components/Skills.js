@@ -8,11 +8,11 @@ function Skills() {
       <div className="skills-container">
         <div className="skill">
           <h3>Web Development</h3>
-          <p>
+          {/* <p>
             <strong>MERN:</strong> Learning MERN Stack and seeking to create
             awsome projects and web apps, which will enhance both my front-end
             and backend.
-          </p>
+          </p> */}
           <p>
             <strong>HTML & CSS:</strong> The building blocks of the web! I enjoy
             crafting responsive and visually appealing layouts that look great
