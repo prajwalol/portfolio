@@ -28,7 +28,7 @@ function Skills() {
             projects to life.
           </p>
           <p>
-            <strong>Python</strong>Currently learning Object Oriented
+            <strong>Python: </strong>Currently learning Object Oriented
             Programming (OOP) in Python and have my basics cleared for C.
           </p>
         </div>
