@@ -4,7 +4,7 @@ import TypingEffect from "react-typing-effect";
 const About = () => {
   return (
     <section id="about" className="p-4">
-      <img className="profile-image" src="/images/my-image.jpg" alt="me" />
+      <img className="profile-image" src="/images/IMG_1905.JPG" alt="me" />
 
       <h2 className="intro-text">
         {" "}
